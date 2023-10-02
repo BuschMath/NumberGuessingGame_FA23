@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberGuessingGame_FA23", "NumberGuessingGame_FA23\NumberGuessingGame_FA23.vcxproj", "{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Debug|x64.ActiveCfg = Debug|x64
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Debug|x64.Build.0 = Debug|x64
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Debug|x86.Build.0 = Debug|Win32
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Release|x64.ActiveCfg = Release|x64
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Release|x64.Build.0 = Release|x64
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Release|x86.ActiveCfg = Release|Win32
+		{4F20C54B-8FB9-4811-A7DB-AF4A19B32A8B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C494752D-3DB9-47B0-AA38-08181FC7F60E}
+	EndGlobalSection
+EndGlobal
