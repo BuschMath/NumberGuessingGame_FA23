@@ -22,7 +22,7 @@ int main()
 	else
 	{
 		cout << "You guessed incorrectly! Try again." << endl;
-		
+		cin >> guess;
 		if (guess == number)
 		{
 			cout << "You guessed correctly!" << endl;
@@ -30,7 +30,7 @@ int main()
 		else
 		{
 			cout << "You guessed incorrectly! Try again." << endl;
-
+			cin >> guess;
 			if (guess == number)
 			{
 				cout << "You guessed correctly!" << endl;
